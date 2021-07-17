@@ -1,0 +1,30 @@
+.box1 {
+    width: 622px;
+    height: 55px;
+    top: 92px;
+    left: 350px;
+    border-radius: 8px;
+    position: absolute;
+    box-sizing: border-box;
+    border: 1.5px  solid #F1F2F6;
+    background-color: #FFFFFF;
+
+}
+.text2{
+    width: 194px;
+    height: 18px;
+    margin-top: 20px;
+    margin-left: 180px;
+    font-family: 'Montserrat' sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #788292;
+}
+
+#d{
+    width: 27px;
+    height: 27px;
+    margin-left: 380px;
+    margin-top: -40px;
+}
