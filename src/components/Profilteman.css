@@ -1,5 +1,4 @@
 .latar{
-    position: absolute;
     width: 1440px;
     height: 870px;
     margin-top: 30px;
@@ -7,21 +6,20 @@
     background-color: #F1F2F6;
 }
 #a34{
-    position: absolute;
     width:150px;
     height: 150px;
-    margin-top: 20px;
-    margin-left: -380px;
+    margin-top: 30px;
+    margin-left: 350px;
 }
-.person{
-    position: absolute;
+.person1{
     width:181px;
     height: 19px;
     font-size: 24px;
     font-weight: bold;
     line-height: 29px;
-    font-family: Montserrat sans-serif;
-    margin-top: 15px;
+    font-family: 'Montserrat' sans-serif;
+    top: 100px;
+    left: 550px;
     color: #203758;
 }
 #a35{
@@ -34,18 +32,20 @@
     color: #F36E39;
     font-style: normal;
     font-weight: normal;
+    margin-top: 10px;
     margin-left: 30px;
+    text-align: center;
 }
-.posting{
-    position: absolute;
+.posting1{
     width: 74px;
     height: 18px;
     font-style: normal;
+    font-family: 'Montserrat' sans-serif;
     font-weight: bold;
     font-size: 15px;
     color: #203758;
-    margin-top: 50px;
-    margin-left: 470px;
+    margin-top: -100px;
+    margin-left: 550px;
 }
 #a36{
     position: absolute;
@@ -54,223 +54,209 @@
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
-    margin-left: -10px;
+    margin-left: 10px;
 }
-.pengikut{
-    position: absolute;
+.pengikut1{
     width: 98px;
     height: 18px;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
     color: #203758;
-    margin-top: 50px;
-    margin-left: 540px;
+    margin-top: -25px;
+    margin-left: 650px;
 }
 #a37{
-    position: absolute;
     width: 74px;
     height: 18px;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
     margin-left: 1px;
 }
-.mengikuti{
-    position: absolute;
+.mengikuti1{
     width: 91px;
     height: 18px;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
     color: #203758;
-    margin-top: 50px;
-    margin-left: 650px;
+    margin-top: -25px;
+    margin-left: 780px;
 }
 #a38{
-    position: absolute;
     width: 74px;
     height: 18px;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
 }
 .pribadi{
-    position: absolute;
     width: 443px;
     height: 77px;
-    font-family: Montserrat;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 187.4%;
     color: #000000;
-    margin-top: 110px;
-    margin-left: 420px;
+    margin-top: 20px;
+    margin-left: 550px;
 }
 .profiltmn1{
-    position: absolute;
     box-sizing: border-box;
     border-radius: 8px;
     border: 1.5px solid #F1F2F6;
     width: 622px;
     height: 202px;
     background-color: #FFFFFF;
-    margin-top: 200px;
+    margin-top: 10px;
     margin-left:330px;
 }
 #a39{
-    position: absolute;
     width: 50px;
     height: 53px;
     margin-top:10px;
-    margin-left: -280px;
+    margin-left: 30px;
 }
 .profile1{
-    position: absolute;
     width: 93px;
     height: 18.74px;
-    font-family: Montserrat;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
     line-height: 18px;
+    top: 300px;
     color: #203758;
 }
 #a40{
-    position: absolute;
     width: 18px;
     height: 4.16px;
     opacity: 0.4;
-    margin-left: 400px;
-    margin-top: 10px;
+    margin-left: 450px;
+    margin-top: -20px;
 }
 .waktu1{
-    position: absolute;
     width: 67px;
     height: 13.54px;
-    font-family: Montserrat sans-serif;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 11px;
     line-height: 13px;
     color: #788292;
-    margin-top: 10px;
-    margin-left: 60px;
+    margin-top: -20px;
+    margin-left: 110px;
 }
 .status1{
-    position: absolute;
     width: 561px;
     height: 45.81px;
-    font-family: Montserrat;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 187.4%;
     color: #203758;
     text-align: left;
-    margin-top: 80px;
+    margin-top: 30px;
     margin-left: 30px;
 }
 #a41{
-    position:absolute;
     width: 26px;
     height: 27px;
     opacity: 0.4;
-    margin-top: 150px;
-    margin-left: 80px;
+    margin-top: -10px;
+    margin-left: 300px;
 }
 #a42{
-    position:absolute;
     width: 26px;
     height: 27px;
     opacity: 0.4;
-    margin-top: 150px;
-    margin-left: 130px;
+    margin-top: -10px;
+    margin-left: 50px;
 }
 #a43{
-    position:absolute;
     width: 26px;
     height: 27px;
     opacity: 0.4;
-    margin-top: 150px;
-    margin-left: 180px;
+    margin-top: -10px;
+    margin-left: 50px;
 }
 .profiltmn2{
-    position: absolute;
     box-sizing: border-box;
     border-radius: 8px;
     border: 1.5px solid #F1F2F6;
     width: 622px;
     height: 424px;
     background-color: #FFFFFF;
-    margin-top: 425px;
+    margin-top: 30px;
     margin-left:330px;
 }
 #a44{
-    position: absolute;
     width: 50px;
     height: 53px;
     margin-top:10px;
-    margin-left: -280px;
+    margin-left: 30px;
 }
 .profile1_1{
-    position: absolute;
     width: 93px;
     height: 18.74px;
-    font-family: Montserrat;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
     line-height: 18px;
     color: #203758;
+    top: 530px;
+    left: 430px;
 }
 #a45{
-    position: absolute;
     width: 18px;
     height: 4.16px;
     opacity: 0.4;
-    margin-left: 400px;
-    margin-top: 10px;
+    margin-left: 450px;
+    margin-top: -30px;
 }
 .waktu1_1{
-    position: absolute;
     width: 93px;
     height: 13.54px;
-    font-family: Montserrat sans-serif;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 11px;
     line-height: 13px;
     color: #788292;
-    margin-top: 10px;
-    margin-left: 50px;
+    margin-top: -20px;
+    margin-left: 100px;
 }
 .profil1_2{
-    position: absolute;
-    width: 553px;
+     width: 553px;
     height: 24px;
-    font-family: Montserrat sans-serif;
+    font-family: 'Montserrat' sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 187.4%;
     color: #203758;
-    margin-top: 80px;
-    margin-left: -60px;
+    margin-top: 30px;
+    margin-left: 30px;
 }
 #warna1{
     color: orangered;
 }
 #a46{
-    position: absolute;
     width: 563px;
     height: 275px;
     border: 1.5px solid #F1F2F6;
     box-sizing: border-box;
     border-radius: 8px;
-    margin-left: -290px;
-    margin-top: 120px;
+    margin-left: 30px;
+    margin-top: 10px;
 
 }
 

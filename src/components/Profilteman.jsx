@@ -15,10 +15,10 @@ import './Profilteman.css';
                 <Navbar />
                 <div className="latar">
                      <img id="a34" src ={Spider} />
-                    <h4 className="person">Spiderman <span id="a35">Follow</span></h4> 
-                    <h5 className="posting">364 <span id="a36">posts</span> </h5> 
-                    <h5 className="pengikut">2m <span id="a37">followers</span></h5>
-                    <h5 className="mengikuti">16 <span id="a38">following</span></h5>
+                    <h4 className="person1">Spiderman <span id="a35">Follow</span></h4> 
+                    <h5 className="posting1">364 <span id="a36">posts</span> </h5> 
+                    <h5 className="pengikut1">2m <span id="a37">followers</span></h5>
+                    <h5 className="mengikuti1">16 <span id="a38">following</span></h5>
                     <p className="pribadi">Your friendly neighborhood spiderman! </p>
                     <div className="profiltmn1">
                          <img id="a39" src ={Spider} />
