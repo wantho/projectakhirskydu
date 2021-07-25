@@ -1,4 +1,4 @@
-.body{
+.badan{
     width: 1440px;
     height: 870px;
     margin-top: 20px;
@@ -7,21 +7,19 @@
 
 }
 #a14{
-    position: absolute;
     width: 150px;
     height: 150px;
-    margin-top: 10px;
-    margin-left: -370px;
-    padding-top: 10px;
+    margin-top: 30px;
+    margin-left: 350px;
+    padding-top: -10px;
 }
 .person{
-    position: absolute;
     width: 181px;
     height: 19px;
     font-weight: bold;
     font-size: 24px;
-    padding-top: 70px;
-    margin-left: 420px;
+    margin-top: 90px;
+    margin-left: 450px;
     color: #203758;
 }
 #a15{
@@ -30,38 +28,48 @@
     height: 13px;
     font-size: 11px;
     text-align: center;
+    font-family: 'Montserrat' sans-serif;
     font-weight: 500;
     font-style: normal;
     color: #F36E39;
-    margin-left: 70px;
-    margin-top: 10px;
+    margin-left: 100px;
+    
 }
 #a16{
     position: absolute;
     width: 24px;
     height: 24px;
-    margin-left: 175px;
+    margin-left: 200px;
     margin-top: 5px;
 }
 .posting{
     position: absolute;
-    width: 74px;
+    width: 100px;
     height: 18px;
-    padding-top: 60px;
-    margin-left: 130px;
+    top: 150px;
+    margin-left: 530px;
+    font-family: 'Montserrat' sans-serif;
     font-weight: bold;
     font-size: 15px;
     color: #203758;
 }
 #a17{
-    font-weight: 500;
-} 
-.pengikut{
     position: absolute;
+    font-family: 'Montserrat' sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #203758;
+    margin-left: 5px;
+ } 
+.pengikut{
     width: 100px;
     height: 18px;
-    padding-top: 60px;
-    margin-left: -10px;
+    font-family: 'Montserrat' sans-serif;
+    font-style: normal;
+    margin-top: -90px;
+    margin-left: 630px;
     font-weight: bold;
     font-size: 15px;
     color: #203758;
@@ -73,8 +81,10 @@
     position: absolute;
     width: 100px;
     height: 18px;
-    padding-top: 60px;
-    margin-left: 710px;
+    top: 153px;
+    left: 740px;
+    font-family: 'Montserrat' sans-serif;
+    font-style: normal;
     font-weight: bold;
     font-size: 15px;
     color: #203758;
@@ -89,18 +99,17 @@
     font-weight: normal;
     font-size: 14px;
     font-family:Montserrat sans-serif;
-    margin-left: 400px;
-    margin-top: 120px;
+    left: 530px;
+    top: 200px;
     color: #000000;
 }
 .boxa{
-    position: absolute;
     box-sizing: border-box;
     width: 622px;
     height: 55px;
     border-radius: 8px;
     border: 1.5px solid #F1F2F6;
-    margin-top: 200px;
+    margin-top: 80px;
     background-color: #ffffff;
     margin-left: 350px;
 }
@@ -123,30 +132,30 @@
     margin-top: -10px;
 }
 .boxb{
-    position: absolute;
     width: 622px;
     height: 202px;
     box-sizing: border-box;
     border: 1.5px solid #F1F2F6;
     border-radius: 8px;
     background-color: #FFFFFF;
-    margin-top: 300px;
+    margin-top: 30px;
     margin-left: 350px;
 }
 #a20{
-    position: absolute;
     width: 50px;
     height: 52px;
     margin-top: 10px;
-    margin-left: -280px;
+    margin-left: 20px;
 }
 .profile1{
-    position: absolute;
     width: 99px;
     height: 19px;
+    font-family: 'Montserrat' sans-serif;
     font-size: 15px;
     font-weight: 500;
-    margin-left: 15px;
+    line-height: 18px;
+    left: 440px;
+    margin-top: 50px;
     color: #203758;
 }
 #a21{
@@ -162,16 +171,16 @@
     height: 14px;
     font-size: 11px;
     font-weight: normal;
-    margin-top: 10px;
-    margin-left: 60px;
+    margin-top: -20px;
+    margin-left: 90px;
     color: #788292;
 }
 #a22{
     position: absolute;
     width: 12px;
     height: 12px;
-    margin-top: 80px;
-    margin-left: 200px;
+    margin-top: 60px;
+    margin-left: 300px;
 }
 #a23{
     position: absolute;
@@ -180,14 +189,14 @@
     font-size: 11px;
     font-weight: 500;
     margin-top: 60px;
-    margin-left: 220px;
+    margin-left: 320px;
 }
 #a24{
     position: absolute;
     width: 12px;
     height: 12px;
-    margin-top: 60px;
-    margin-left: 200px;
+    margin-top: 80px;
+    margin-left: 300px;
 }
 #a25{
     position: absolute;
@@ -196,7 +205,7 @@
     font-size: 11px;
     font-weight: 500;
     margin-top: 80px;
-    margin-left: 220px;
+    margin-left: 320px;
 }
 .p1{
     position: absolute;
@@ -205,7 +214,7 @@
     font-size: 14px;
     font-weight: 400;
     font-style: normal;
-    margin-top: 100px;
+    margin-top: 40px;
     margin-left: 20px;
     text-align: left;
 }
@@ -215,7 +224,7 @@
     height: 27px;
     opacity: 0.4;
     margin-top: 150px;
-    margin-left: 80px;
+    margin-left: 250px;
 }
 #a27{
     position:absolute;
@@ -223,7 +232,7 @@
     height: 27px;
     opacity: 0.4;
     margin-top: 150px;
-    margin-left: 130px;
+    margin-left: 300px;
 }
 #a28{
     position:absolute;
@@ -231,41 +240,41 @@
     height: 27px;
     opacity: 0.4;
     margin-top: 150px;
-    margin-left: 180px;
+    margin-left: 350px;
 }
 .boxc{
-    position: absolute;
     width: 622px;
     height: 425px;
     border-radius: 8px;
     box-sizing: border-box;
     border: 1.5px solid #F1F2F6;
     background-color: #FFFFFF;
-    margin-top: 530px;
+    margin-top: 30px;
     margin-left: 350px;
 }
 #a29{
-    position: absolute;
     width: 50px;
     height: 52px;
     margin-top: 10px;
-    margin-left: -280px;
+    margin-left: 30px;
 }
 .profile1a{
-    position: absolute;
     width: 99px;
     height: 19px;
+    font-family: 'Montserrat' sans-serif;
+    font-style: normal;
+    font-weight: bold;
     font-size: 15px;
-    font-weight: 500;
-    margin-left: 15px;
+    margin-left: 380px;
+    margin-top: 570px;
     color: #203758;
 }
 #a30{
-    position: absolute;
     width: 18px;
     height:5px;
     opacity: 0.4;
-    margin-left: 380px;
+    margin-left: 450px;
+    margin-top: -10px;
 }
 .waktu2{
     position: absolute;
@@ -273,27 +282,25 @@
     height: 14px;
     font-size: 11px;
     font-weight: normal;
-    margin-top: 10px;
-    margin-left: 60px;
+    margin-top: -20px;
+    margin-left: 110px;
     color: #788292;
 }
 .p2{
-    position: absolute;
     width: 553px;
     height: 24px;
     font-size: 14px;
     font-weight: normal;
-    font-family: Montserrat sans-serif;
-    margin-top: 80px;
-    margin-left: -60px;
+    font-family: 'Montserrat' sans-serif;
+    margin-top: 30px;
+    margin-left: 30px;
 }
 #warna{
     color: orangered;
 }
 #a31{
-    position: absolute;
-    margin-top: 120px;
+    margin-top: 10px;
     width: 550px;
     height:200px;
-    margin-left: -280px;
+    margin-left: 30px;
 }

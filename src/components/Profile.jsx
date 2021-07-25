@@ -18,7 +18,7 @@ import './Profile.css';
         return (
             <div>
                 <Navbar />
-                <div className="body">
+                <div className="badan">
                     <img id="a14" src ={Gambar2} />
                     <h4 className="person">Peter Parker <span id="a15">Edit profile</span> <img id="a16" src={Follow} /></h4> 
                     <h5 className="posting">364 <span id="a17">posts</span> </h5> 
