@@ -10,7 +10,7 @@ import './Editprofil.css';
                 <div className="boxedit">
                     <div className="boxedit1">
                         <h3 className="edit">Ubah Profil <span> <img id="a32" src={Hapus} alt ="" /> </span></h3>
-                         <hr />
+                         <hr id="garisedit" />
                          <img id="a33" src={Gambar2} />
                          <div className="ubahfoto">
                                 <h3 className="ubah">Ubah Foto Profil</h3>
