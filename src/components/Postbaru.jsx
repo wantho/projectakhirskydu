@@ -9,14 +9,14 @@ import './Postbaru.css';
         render() {
         return (
             <div>
-             <div className="container">
-                    <div className="kotak2">
-                        <h1 className="pos">Buat Post Baru <span> <img id="a12" src={Hapus} alt ="" /> </span></h1>
+             <div className="containerpostbaru">
+                    <div className="kotak2a">
+                        <h1 className="pos1">Buat Post Baru <span> <img id="a12a" src={Hapus} alt ="" /> </span></h1>
                         <hr />
                         <p className="ide1">Setiap saat, badai selalu hadir menerpa, walau pikiranku selalu dipenuhi, kebohongan. Namun semua, membuatku sangat suka, pada semua beban berat yang kurasakan.</p>
                        
                             <img id="a13" src={Gambar1} alt="" />
-                            <button type="button" class="btn btn-primary">Post</button>
+                            <button type="button" class="btn1 btn-primary">Post</button>
                        
 
                     </div>
